@@ -10,7 +10,7 @@ Mathematics has been my passion ever since I was a little kid, and I love turnin
 
 ### 🔭 What I'm Up To
 
-- 🎓 Studying for my Master's degree in Applied Math at [Université de Strasbourg](https://www.unistra.fr/) (where I also completed my Bachelor's degree in Applied Mathematics !)
+- 🎓 Studying for my Master's degree in Applied Math at [Strasbourg University](https://www.unistra.fr/) (where I also completed my Bachelor's degree in Applied Mathematics !)
 
 - 💻 Building my skills in **Scientific Computing**, exploring how mathematical modeling and numerical methods solve real-world problems
 
